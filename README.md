@@ -20,7 +20,7 @@ The primary goal of this dashboard is to demonstrate advanced Excel skills for d
 
 ## 🚀 How to Use
 
-1.  **Download the File:** Click on the `Project_Portfolio_Dashboard.xlsx` file in this repository and select the "Download" button.
+1.  **Download the File:** Click on the `Project.xlsx` file in this repository and select the "Download" button.
 2.  **Enable Content:** When you open the file in Excel, you may see a security warning. Click **"Enable Content"** or **"Enable Editing"** to ensure all features (like slicers) are fully functional.
 3.  **Interact with the Dashboard:** Use the slicer buttons on the `Dashboard` sheet to filter the data and see the charts update in real-time.
 
