@@ -42,12 +42,20 @@ The primary goal of this dashboard is to demonstrate advanced Excel skills for d
 Here's a look at the main components of the dashboard:
 
 **Budget vs. Actual Spend Chart**
+
+
 <img width="288" height="175" alt="Screenshot 2025-08-26 at 11 06 39 PM" src="https://github.com/user-attachments/assets/4074b872-4e65-4d8e-918f-87f92686dc42" />
 
+
 **Gantt Chart for Project Timelines**
+
+
 <img width="358" height="442" alt="Screenshot 2025-08-26 at 11 07 19 PM" src="https://github.com/user-attachments/assets/8e7bea08-09d1-46c7-b9eb-752159ea7c0b" />
 
+
 **Interactive Slicers**
+
+
 <img width="119" height="355" alt="Screenshot 2025-08-26 at 11 06 55 PM" src="https://github.com/user-attachments/assets/e3e95bed-824d-4356-aaa2-64324f4302e1" />
 
 
