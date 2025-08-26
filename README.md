@@ -4,8 +4,6 @@
 
 This project is a dynamic and interactive dashboard built in **Microsoft Excel** to track and visualize the key metrics of a project portfolio. It is designed to provide project managers and stakeholders with an at-a-glance view of project health, financial performance, and timelines.
 
-The primary goal of this dashboard is to demonstrate advanced Excel skills for data analysis, visualization, and reporting—core competencies for any project management or analyst role.
-
 ---
 
 ## ✨ Features
